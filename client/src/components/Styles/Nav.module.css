@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    padding: 1rem;
+    width: 100%;
+    background-color: #0b0707;
+    justify-content: space-around;
+}
+
+
+.link{
+    color: #ede9ea;
+    font-weight: 600;
+    
+}
